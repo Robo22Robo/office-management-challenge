@@ -1,3 +1,8 @@
+The project preview on heroku under the following link:
+https://office-management-challenge.herokuapp.com/
+
+-----
+
 # Office management application
 
 You will create an application to organize the office's management.
