@@ -1,0 +1,17 @@
+.Eintrag {
+    font-size: 25px;
+}
+.Erledigt {
+    text-decoration: line-through;
+}
+
+.ButtonAvailable {
+    background-color: lightgreen;
+    border-radius: 5px;
+    
+}
+
+.not  {
+    background-color: lightblue;
+    border-radius: 5px;
+}
